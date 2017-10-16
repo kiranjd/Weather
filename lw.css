@@ -1,0 +1,22 @@
+h1,h2,#imag {
+  color : #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  font-size : 60px;
+}
+h2,#img {
+  font-family : Helvetica;
+  color : #6af;
+}
+#chTemp {
+  font-size : 130px;
+  color : #fff;
+}
+#city {
+  font-size : 50px;
+}
+img {
+  opacity : 0.;
+
+}
